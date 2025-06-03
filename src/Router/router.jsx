@@ -1,7 +1,7 @@
 import { createBrowserRouter, RouterProvider, Outlet } from "react-router";
 import Home from "../Pages/Home";
 import Signin from "../Pages/Signin";
-import SignUp from "../Pages/Signup";
+import SignUp from "../Pages/SignUp";
 import ProductList from "../Pages/ProductList";
 import ProductDetails from "../Pages/ProductDetails"
 import Checkout from "../Pages/Checkout";
